@@ -1,0 +1,16 @@
+<configuration>
+    <input>
+        <net-file value="Tuam_Static.net.xml"/> <!-- Static map file -->
+        <route-files value="Tuam_routes.rou.xml"/> <!-- Route file -->
+    </input>
+    <time>
+        <begin value="0"/> <!-- Simulation start time -->
+        <end value="7200"/> <!-- Extended simulation end time to 2 hours -->
+    </time>
+    <output>
+        <fcd-output value="Tuam_static_fcd.xml"/> <!-- Output vehicle data -->
+        <summary value="Tuam_static_summary.xml"/> <!-- Summary output -->
+        <log value="Tuam_simulation_log.txt"/> <!-- Simulation log -->
+        <statistic-output value="Tuam_statistics.xml"/> <!-- Additional stats -->
+    </output>
+</configuration>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-12-24 22:05:03 by Eclipse SUMO GUI Version 1.21.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="Tuam_Static.net.xml"/>
+        <route-files value="true"/>
+    </input>
+
+    <output>
+        <fcd-output value="Tuam_static_fcd.xml"/>
+        <summary-output value="Tuam_static_summary.xml"/>
+        <statistic-output value="Tuam_statistics.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="7200"/>
+    </time>
+
+    <report>
+        <log value="Tuam_simulation_log.txt"/>
+    </report>
+
+</sumoConfiguration>
+-->
+
+<summary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/summary_file.xsd">
+</summary>

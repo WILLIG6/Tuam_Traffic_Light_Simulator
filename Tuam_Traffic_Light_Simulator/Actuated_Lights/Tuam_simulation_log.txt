@@ -1,0 +1,38 @@
+Loading net-file from 'G:\My Drive\College\MEng in Connected & Autonomous Vehicles\Semester_3\Research Methods (RSCH09030)\Final research paper\SUMO\Actuated_lights\Tuam_Actuated_fixed.net.xml' ... done (967ms).
+Warning: At actuated tlLogic '12103450351', actuated phase 1 has no controlling detector.
+Warning: At actuated tlLogic '12103450351', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '1993073081', actuated phase 1 has no controlling detector.
+Warning: At actuated tlLogic '1993073081', actuated phase 3 has no controlling detector.
+Warning: At actuated tlLogic '2050548875', actuated phase 1 has no controlling detector.
+Warning: At actuated tlLogic '2050548875', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '2617934691', actuated phase 1 has no controlling detector.
+Warning: At actuated tlLogic '2617934691', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '262805196', actuated phase 1 has no controlling detector.
+Warning: At actuated tlLogic '262805196', actuated phase 3 has no controlling detector.
+Warning: At actuated tlLogic '262805196', actuated phase 5 has no controlling detector.
+Warning: At actuated tlLogic '266539608', actuated phase 1 has no controlling detector.
+Warning: At actuated tlLogic '266539608', actuated phase 3 has no controlling detector.
+Warning: At actuated tlLogic '300827792', actuated phase 1 has no controlling detector.
+Warning: At actuated tlLogic '300827792', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '483494021', actuated phase 1 has no controlling detector.
+Warning: At actuated tlLogic '483494021', actuated phase 3 has no controlling detector.
+Warning: At actuated tlLogic '6831862243', actuated phase 1 has no controlling detector.
+Warning: At actuated tlLogic '6831862243', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '6831898199', actuated phase 1 has no controlling detector.
+Warning: At actuated tlLogic '6831898199', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '6831949250', actuated phase 1 has no controlling detector.
+Warning: At actuated tlLogic '6831949250', actuated phase 2 has no controlling detector.
+Warning: At actuated tlLogic '7862635336', actuated phase 1 has no controlling detector.
+Warning: At actuated tlLogic '7862635336', actuated phase 2 has no controlling detector.
+Loading done.
+Simulation started with time: 0.00.
+Simulation ended at time: 7200.00.
+Reason: The final simulation step has been reached.
+Performance:
+ Duration: 24.08s
+ Real time factor: 298.978
+ UPS: 35.337597
+Vehicles:
+ Inserted: 3
+ Running: 0
+ Waiting: 0

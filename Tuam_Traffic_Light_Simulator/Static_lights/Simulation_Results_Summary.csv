@@ -1,0 +1,4 @@
+vehicle_id,total_distance,max_speed,mean_speed,travel_time,simulation_mean_speed,simulation_mean_travel_time,simulation_mean_waiting_time
+veh_1,130.79,19.97,14.110881057268722,226.0,N/A,290.33,N/A
+veh_2,1017.19,20.0,12.871506024096385,341.0,N/A,290.33,N/A
+veh_3,252.67,20.0,11.976410256410256,331.0,N/A,290.33,N/A
